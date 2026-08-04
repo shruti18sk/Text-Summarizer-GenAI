@@ -25,3 +25,13 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/shruti18sk/Text-Summarizer-GenAI.git
+## Demo
+
+### Home Screen
+![Home Screen](ui-home.png)
+
+### Input Example
+![Input](ui-input.png)
+
+### Output Example
+![Output](ui-output.png)
